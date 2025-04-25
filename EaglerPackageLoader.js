@@ -1,7 +1,7 @@
 
         "use strict";
         (function(){
-            window.eaglercraftXOpts.assetsURI = "";
+            window.eaglercraftXOpts.assetsURI = "https://cdn.statically.io/gh/syncintellect/eagler-assets/main/assets.epk";
 
             var launchInterval = -1;
             var launchCounter = 1;
